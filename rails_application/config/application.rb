@@ -36,3 +36,5 @@ module Samelevel
     config.generators.system_tests = nil
   end
 end
+
+require_relative "../../dummy"
