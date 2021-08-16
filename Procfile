@@ -1,1 +1,1 @@
-web: rails_application/vendor/bundle/bin/bundle exec rails server -p $PORT
+web: rails_application/bin/rails server -p $PORT
