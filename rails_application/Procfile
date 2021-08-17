@@ -1,1 +1,1 @@
-web: bin/rails server -p $PORT
+web: rails_application/bin/rails server -p $PORT
